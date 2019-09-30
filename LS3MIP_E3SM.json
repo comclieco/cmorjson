@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"cmvar": "hfdsn",
-		"longname": "Downward Heat Flux into Snow Where Land over Land xxxx",
+		"longname": "Downward Heat Flux into Snow Where Land over Land",
 		"frequency": "mon",
 		"miptable": "LImon",
 		"priority": 1,
@@ -24,7 +24,7 @@
 		"confidence": "0",
 		"_children": [
 			{
-				"confidence": "100",
+				"confidence": "0",
 				"relationship": "",
 				"frequency": "mon",
 				"longname": "net heat flux into lake/snow surface, excluding light transmission",
