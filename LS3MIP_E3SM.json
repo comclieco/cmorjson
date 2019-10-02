@@ -1,8 +1,4 @@
 [
-	{
-		"type": "group",
-		"key": "Amon",
-		"rows": [
 			{
 				"id": 1,
 				"cmvar": "rsdscs",
@@ -2309,13 +2305,7 @@
 				"relationship": "",
 				"confidence": 0,
 				"_children": []
-			}
-		]
-	},
-	{
-		"type": "group",
-		"key": "Emon",
-		"rows": [
+			},
 			{
 				"id": 64,
 				"cmvar": "mrsol",
@@ -2524,13 +2514,7 @@
 						"confidence": 100
 					}
 				]
-			}
-		]
-	},
-	{
-		"type": "group",
-		"key": "LImon",
-		"rows": [
+			},
 			{
 				"id": 66,
 				"cmvar": "sbl",
@@ -3173,13 +3157,7 @@
 						"confidence": 100
 					}
 				]
-			}
-		]
-	},
-	{
-		"type": "group",
-		"key": "Lmon",
-		"rows": [
+			},
 			{
 				"id": 45,
 				"cmvar": "mrfso",
@@ -5369,13 +5347,7 @@
 						"confidence": 100
 					}
 				]
-			}
-		]
-	},
-	{
-		"type": "group",
-		"key": "Omon",
-		"rows": [
+			},
 			{
 				"id": 4,
 				"cmvar": "dissi13cos",
@@ -11604,13 +11576,7 @@
 				"relationship": "",
 				"confidence": 0,
 				"_children": []
-			}
-		]
-	},
-	{
-		"type": "group",
-		"key": "SImon",
-		"rows": [
+			},
 			{
 				"id": 136,
 				"cmvar": "sfdsi",
@@ -13830,6 +13796,4 @@
 				"confidence": 0,
 				"_children": []
 			}
-		]
-	}
 ]
