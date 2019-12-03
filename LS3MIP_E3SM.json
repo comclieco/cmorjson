@@ -346,8 +346,8 @@
 			"GeoMIP",
 			"HighResMIP"
 		],
-		"relationship": "",
-		"confidence": 0,
+		"relationship": "AAAA",
+		"confidence": "90",
 		"_children": [
 			{
 				"confidence": 10,
